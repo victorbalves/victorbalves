@@ -1,5 +1,5 @@
 # :octocat: Victor Alves
-Sou aluno de Análise e Desenvolvimento de Sistemas<br>Estudo Front-End<br>Estou a procura de estágio
+Análise e Desenvolvimento de Sistemas, Futuro Dev Full Stack.
 
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white)](https://github.com/victorbalves)
